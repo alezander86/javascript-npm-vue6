@@ -1,0 +1,1 @@
+1. Application javascript-npm-vue6 has been successfully deployed!!
